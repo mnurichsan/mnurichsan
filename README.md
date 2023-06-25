@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Muhammad Nur Ichsan</h1>
 
 <p align="center">
-  <a href="http://ichsandev.tempatkoding.com/">
+  <a href="http://ichsandev.tempatkoding.com/" target="_blank">
     Profile Website
   </a>
 </p>
